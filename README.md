@@ -1,4 +1,4 @@
-# Underwater-scene
+# underwater-scenery
 A basic underwater scene created using OpenGL Utility Toolkit (GLUT) library
 
 
